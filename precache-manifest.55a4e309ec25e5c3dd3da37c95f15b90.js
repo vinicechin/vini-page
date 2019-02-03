@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/vini-page/static/js/runtime~main.a56acc85.js"
   },
   {
-    "revision": "eb94f853404916fb0d77",
-    "url": "/vini-page/static/js/main.eb94f853.chunk.js"
+    "revision": "0487b7e7444783a4106f",
+    "url": "/vini-page/static/js/main.0487b7e7.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/vini-page/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "eb94f853404916fb0d77",
+    "revision": "0487b7e7444783a4106f",
     "url": "/vini-page/static/css/main.22b830f4.chunk.css"
   },
   {
-    "revision": "15c5aa6742545ee6c0ee53516d6f2566",
+    "revision": "1fd4d907157a5ae438a92d13fa6d77bc",
     "url": "/vini-page/index.html"
   }
 ];
